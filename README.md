@@ -4,7 +4,7 @@ This notebook explores how Large Language Models (LLMs), specifically **BERT**, 
 
 Traditional machine learning models struggle with nuanced semantic inference tasks. Here, we leverage modern LLM techniques—including **zero-shot prediction**, **in-context learning (ICL)**, and **fine-tuning with LoRA**—to handle these tasks effectively.
 
-## 📌 Task Overview
+## Task Overview
 
 The notebook demonstrates:
 
@@ -21,7 +21,7 @@ The notebook demonstrates:
 * Use HuggingFace Transformers to load, preprocess, evaluate, and fine-tune models.
 * Analyze results using accuracy, confusion matrix, and perplexity.
 
-## 🔄 Pipeline
+## Pipeline
 
 1. Set up HuggingFace access token
 2. Load SWAG dataset
